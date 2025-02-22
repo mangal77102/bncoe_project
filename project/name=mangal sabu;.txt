@@ -1,0 +1,3 @@
+name="mangal sabu";
+roll no=10
+address="main road sengaon";
